@@ -18,7 +18,7 @@ Thanks to [Saty](https://viterbi.usc.edu/directory/faculty/Raghavachary/Saty) fo
 The original idea for this explanation was formed when I was discussing with some friends, including [Yuuta Liang](https://yuuta.moe), a couple years ago. Thanks to her for providing feedback on the initial drafts of the video.
 
 AI notice:
-Some stock images used in the video were generated using Gemini. API access provided and sponsored by [Zihan Zhang](https://github.com/zzh1996).
+Some stock images used in the video were generated using Gemini. API access provided and sponsored by an anonymous friend.
 The lecture notes were written with the assistance of Claude and Gemini.
 The website for the GitHub Pages page was generated with the help of Gemini and Copilot.
 
